@@ -1,4 +1,4 @@
-package com.restful.security.user;
+package com.restful.security.entity;
 
 import jakarta.persistence.*;
 import lombok.*;

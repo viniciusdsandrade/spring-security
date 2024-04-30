@@ -1,7 +1,6 @@
-package com.restful.security.user;
+package com.restful.security.entity;
 
 public enum Role {
-
     USER,
     ADMIN
 }
